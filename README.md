@@ -19,16 +19,7 @@
 
 - ⚡ Fun fact **I am bad at cracking jokes, LOL!**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumya100&show_icons=true&locale=en&layout=compact" alt="soumya100" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumya100&show_icons=true&locale=en" alt="soumya100" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumya100&" alt="soumya100" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

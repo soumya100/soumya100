@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Soumyadeep Nandi</h1>
 <h3 align="center">Hey there! I'm Soumyadeep Nandi, a frontend wizard with a knack for making websites look awesome and work like a charm!</h3>
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/47693557?s=400&u=3ec0d4afd00dd5b364647dca766e602f3c4158be&v=4" alt="soumya100" /> </p>
+<p align="center"> <img src="https://avatars.githubusercontent.com/u/47693557?s=400&u=3ec0d4afd00dd5b364647dca766e602f3c4158be&v=4" alt="soumya100" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumya100" alt="soumya100" /></a> </p>
-
-- 🔭 I’m currently working on **DigiShop**
+- 🔭 I’m currently working on **Trendy**
 
 - 🌱 I’m currently learning **React, NextJs, ReactQuery.**
 
